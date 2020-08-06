@@ -9,7 +9,7 @@
 ```
 
 ```
-3. Regresyon 
+3. Regresyon Analizi
 ```
 
 ```
