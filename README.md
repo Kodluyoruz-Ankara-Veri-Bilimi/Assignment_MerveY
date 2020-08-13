@@ -19,3 +19,6 @@
 ```
 5. PCA
 ```
+```
+6. Desicion Tree / Random Forest / NN
+```
