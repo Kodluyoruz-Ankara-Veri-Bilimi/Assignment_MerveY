@@ -22,3 +22,12 @@
 ```
 6. Desicion Tree / Random Forest / NN
 ```
+```
+7. SVM / Naive Bayes
+```
+```
+8. Boosting
+```
+```
+9. KNN / Clustering
+```
