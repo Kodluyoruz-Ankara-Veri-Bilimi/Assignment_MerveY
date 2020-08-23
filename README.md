@@ -29,5 +29,5 @@
 8. Boosting
 ```
 ```
-9. KNN / Clustering
+9. KNN / Clustering ( KMeans)
 ```
